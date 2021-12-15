@@ -1,0 +1,54 @@
+.wrapper {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: white;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.fullWrapper {
+  margin-top: 40px;
+}
+
+.contactWrapper {
+  display: flex;
+}
+
+.contactWrapper a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #4e3c31;
+}
+
+.icon {
+  margin-top: -2px;
+  margin-right: 5px;
+}
+
+.socialIcon {
+  padding: 20px;
+}
+
+.socialComponent {
+  margin-top: -40px;
+}
+
+.shadow {
+  box-shadow: 2px 2px 4px #4e3c31;
+}
+
+@media screen and (max-width: 400px) {
+  .socialIcon {
+    padding: 8px;
+  }
+}
+
+@media screen and (max-width: 290px) {
+  .socialIcon {
+    padding: 5px;
+  }
+}
