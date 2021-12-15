@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/barefootfarm/static/css/main.8e4221a0.css",
-    "main.js": "/barefootfarm/static/js/main.a99cb74c.js",
+    "main.js": "/barefootfarm/static/js/main.3b01fb2c.js",
     "static/js/787.4df7be09.chunk.js": "/barefootfarm/static/js/787.4df7be09.chunk.js",
     "static/media/barefootfarm.png": "/barefootfarm/static/media/barefootfarm.cbe7e8cbfe329527562f.png",
     "index.html": "/barefootfarm/index.html",
     "main.8e4221a0.css.map": "/barefootfarm/static/css/main.8e4221a0.css.map",
-    "main.a99cb74c.js.map": "/barefootfarm/static/js/main.a99cb74c.js.map",
+    "main.3b01fb2c.js.map": "/barefootfarm/static/js/main.3b01fb2c.js.map",
     "787.4df7be09.chunk.js.map": "/barefootfarm/static/js/787.4df7be09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e4221a0.css",
-    "static/js/main.a99cb74c.js"
+    "static/js/main.3b01fb2c.js"
   ]
 }
