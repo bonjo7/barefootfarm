@@ -41,14 +41,27 @@
   box-shadow: 2px 2px 4px #4e3c31;
 }
 
-@media screen and (max-width: 400px) {
+.iconSize {
+  height: 50px;
+  width: 50px;
+}
+
+@media screen and (max-width: 420px) {
   .socialIcon {
     padding: 8px;
+  }
+
+  img {
+    width: 300px;
   }
 }
 
 @media screen and (max-width: 290px) {
   .socialIcon {
     padding: 5px;
+  }
+
+  img {
+    width: 250px;
   }
 }

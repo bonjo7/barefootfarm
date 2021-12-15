@@ -13,7 +13,7 @@ const Social = () => {
             rel='noreferrer'
             aria-label='Barefoot farm facebook url'
           >
-            <FacebookLogo size={55} color='#4e3c31' />
+            <FacebookLogo className={styles.iconSize} color='#4e3c31' />
           </a>
         </div>
         <div className={styles.socialIcon}>
@@ -23,7 +23,7 @@ const Social = () => {
             rel='noreferrer'
             aria-label='Barefoot farm twitter url'
           >
-            <TwitterLogo size={55} color='#4e3c31' />
+            <TwitterLogo className={styles.iconSize} color='#4e3c31' />
           </a>
         </div>
         <div className={styles.socialIcon}>
@@ -33,7 +33,7 @@ const Social = () => {
             rel='noreferrer'
             aria-label='Barefoot farm instagram url'
           >
-            <InstagramLogo size={55} color='#4e3c31' />
+            <InstagramLogo className={styles.iconSize} color='#4e3c31' />
           </a>
         </div>
       </div>
