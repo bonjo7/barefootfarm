@@ -1,6 +1,6 @@
 import React from "react";
 import { FacebookLogo, TwitterLogo, InstagramLogo } from "phosphor-react";
-import styles from "../Main/Main.module.css";
+import styles from "../Home/Home.module.css";
 
 const Social = () => {
   const icons = [
