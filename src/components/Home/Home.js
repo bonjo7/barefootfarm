@@ -1,14 +1,18 @@
 import Carousel from "./Carousel/CarouselComponent";
 import Intro from "./Intro/Intro";
-import Retailers from "./Retailers/Retailers"
+import Retailers from "./Retailers/Retailers";
+import styles from "./Home.module.css";
 
 const Home = () => {
   return (
-    <div>
+    <>
       <Carousel />
+      <div className={styles.intro}>
       <Intro />
+      </div>
+      <hr></hr>
       <Retailers />
-    </div>
+    </>
   );
 };
 

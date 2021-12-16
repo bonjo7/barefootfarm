@@ -46,6 +46,10 @@
   width: 50px;
 }
 
+.intro {
+  padding: 60px;
+}
+
 @media screen and (max-width: 420px) {
   .socialIcon {
     padding: 8px;

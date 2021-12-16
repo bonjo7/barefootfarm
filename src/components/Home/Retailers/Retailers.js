@@ -22,6 +22,7 @@ const Retailers = () => {
   ];
   return (
     <>
+    <h4>Retailers</h4>
       <Container>
         <Row>
           {retailers.map((r) => {

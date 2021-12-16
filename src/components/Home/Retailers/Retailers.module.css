@@ -1,4 +1,12 @@
 .image {
     height: 100px;
     width: 120px;
+    margin-left: 25%;
+}
+
+h4 {
+    color: #456127;
+    text-align: center;
+    font-weight:700;
+    margin-bottom: 20px;
 }
