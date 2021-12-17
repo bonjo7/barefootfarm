@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/barefootfarm/static/css/main.e3de80d9.css",
-    "main.js": "/barefootfarm/static/js/main.2343d702.js",
+    "main.css": "/barefootfarm/static/css/main.5ac2d0be.css",
+    "main.js": "/barefootfarm/static/js/main.1ac5f273.js",
     "static/js/787.4df7be09.chunk.js": "/barefootfarm/static/js/787.4df7be09.chunk.js",
     "static/media/salad.png": "/barefootfarm/static/media/salad.422be11926fe879e03b0.png",
     "static/media/barefootfarm.png": "/barefootfarm/static/media/barefootfarm.cbe7e8cbfe329527562f.png",
     "static/media/market.jpeg": "/barefootfarm/static/media/market.5556fdedd20166597f14.jpeg",
     "index.html": "/barefootfarm/index.html",
-    "main.e3de80d9.css.map": "/barefootfarm/static/css/main.e3de80d9.css.map",
-    "main.2343d702.js.map": "/barefootfarm/static/js/main.2343d702.js.map",
+    "main.5ac2d0be.css.map": "/barefootfarm/static/css/main.5ac2d0be.css.map",
+    "main.1ac5f273.js.map": "/barefootfarm/static/js/main.1ac5f273.js.map",
     "787.4df7be09.chunk.js.map": "/barefootfarm/static/js/787.4df7be09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3de80d9.css",
-    "static/js/main.2343d702.js"
+    "static/css/main.5ac2d0be.css",
+    "static/js/main.1ac5f273.js"
   ]
 }
