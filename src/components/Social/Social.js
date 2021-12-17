@@ -8,19 +8,19 @@ const Social = () => {
       id: 0,
       href: "https://www.facebook.com/barefootfarmdunhill",
       aria: "Barefoot farm facebook url",
-      iconLogo: <FacebookLogo className={styles.iconSize} color='#4e3c31' />,
+      iconLogo: <FacebookLogo className={styles.iconSize} color='#456127' />,
     },
     {
       id: 1,
       href: "https://twitter.com/barefootfarm_du",
       aria: "Barefoot farm twitter url",
-      iconLogo: <TwitterLogo className={styles.iconSize} color='#4e3c31' />,
+      iconLogo: <TwitterLogo className={styles.iconSize} color='#456127' />,
     },
     {
       id: 2,
       href: "https://www.instagram.com/barefoot.farm/",
       aria: "Barefoot farm instagram url",
-      iconLogo: <InstagramLogo className={styles.iconSize} color='#4e3c31' />,
+      iconLogo: <InstagramLogo className={styles.iconSize} color='#456127' />,
     },
   ];
   return (
