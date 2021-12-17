@@ -9,7 +9,7 @@ const NavBar = () => {
         <Navbar.Brand className={styles.link} href='#home'>
           Barefoot Farm
         </Navbar.Brand>
-        <Navbar.Toggle
+        {/* <Navbar.Toggle
           className={styles.hamburgerIcon}
           aria-controls='basic-navbar-nav'
         >
@@ -29,7 +29,7 @@ const NavBar = () => {
               Contact Us
             </Nav.Link>
           </Nav>
-        </Navbar.Collapse>
+        </Navbar.Collapse> */}
       </Container>
     </Navbar>
   );
