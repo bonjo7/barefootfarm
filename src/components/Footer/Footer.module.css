@@ -1,0 +1,35 @@
+.footer {
+  text-align: center;
+  color: #fff;
+  text-align: center;
+  white-space: pre-line;
+  background-color: #456127;
+  border-top: #513f33 5px solid !important;
+  margin-top: 40px;
+}
+
+.wrapper {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px !important;
+  color: white;
+  margin-top: -40px;
+  font-size: 18px;
+}
+
+.contactWrapper {
+  display: flex;
+}
+
+.contactWrapper a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.icon {
+  margin-top: -2px;
+  margin-right: 5px;
+}
